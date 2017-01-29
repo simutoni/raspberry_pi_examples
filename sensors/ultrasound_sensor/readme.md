@@ -7,7 +7,7 @@ So connect the resistance to the trig pin and only after that connect it to any 
 - gnd you - can connect it to ground pins ex. pin 6, 9, 14, 20 (board mode)
 
 ## How it works
-Fist, when you trigger the sensor it sends an ultrasonic wave that is going tu bunp into the object and came back to the sensor.
+- Fist, when you trigger the sensor it sends an ultrasonic wave that is going tu bunp into the object and came back to the sensor.
 In this way we know how much time the wave made from the sensor to the object and back.
-Next we need to multiply the time with the speed of sound which is 34300 m/s and after this we need to divede it by 2
+- Next we need to multiply the time with the speed of sound which is 34300 m/s and after this we need to divede it by 2
 because we need only the distance from the sensor to the object excluding the way back of the wave.

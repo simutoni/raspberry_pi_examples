@@ -7,8 +7,6 @@
 - SDA - connects to pin 3
 - scl - connects to pin 5
 
-## 2. Install the smbus library : sudo apt-get install python3-smbus
-
 ## 3. If it still doesn't work you sould do next thigs:
 - sudo apt-get update
 - sudo apt-get upgrade
