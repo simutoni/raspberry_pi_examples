@@ -1,2 +1,4 @@
 RPi.GPIO
 pygame
+max7219
+picamera
